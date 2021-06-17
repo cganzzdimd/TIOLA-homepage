@@ -237,11 +237,11 @@ height: 100px;
      display: block;
    }
 
-   /* .container{
+/*    .container{ */
      flex-direction: column;
    } 
     .main-logo{
-      hight: 150px*/
+      hight: 150px;
   }  
  
 
