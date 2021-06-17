@@ -4,6 +4,7 @@ body{
 
 .logo{
     display: flex;
+    hight: 600px;
     /* background-color: cadetblue; */
 } 
  
