@@ -10,10 +10,10 @@ body{
 .main-logo{
     /* background-size: cover;
     background-position: center; */ 
-/*     height: 600px; */
+    height: 600px;
     width: 90%;
     max-width: 90%;
-    hight: auto;
+/*     hight: auto; */
     margin-left: auto;
     margin-right: auto;
     padding-bottom: 15px;
