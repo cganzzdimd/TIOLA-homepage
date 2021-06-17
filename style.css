@@ -4,7 +4,7 @@ body{
 
 .logo{
     display: flex;
-/*     hight: 600px; */
+    hight: 600px;
     /* background-color: cadetblue; */
 } 
  
@@ -241,7 +241,7 @@ height: 100px;
 /*    .container{ */
      flex-direction: column;
    } 
-    .main-logo img{
+    .logo img{
       hight: 150px;
   }   
  
