@@ -240,9 +240,9 @@ height: 100px;
 /*    .container{ */
      flex-direction: column;
    } 
-    .main-logo{
+    .main-logo img{
       hight: 150px;
-  }  
+  }   
  
 .googleform-wrapper {
   position: relative;
