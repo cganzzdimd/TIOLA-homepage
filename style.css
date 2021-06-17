@@ -241,7 +241,7 @@ height: 100px;
 /*    .container{ */
      flex-direction: column;
    } 
-    .logo img{
+    .logo{
       hight: 150px;
   }   
  
