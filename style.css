@@ -233,6 +233,7 @@ height: 100px;
 
   @media(max-width:600px){    
     
+      
 
    .contents2{
      display: block;
@@ -268,6 +269,45 @@ height: 100px;
       margin-top: 150px;
       margin-bottom: 100px;
   }  
+
+header .fas{
+    float: right;
+    padding-top: 20px;
+    padding-right: 40px;
+  }
+
+@media(min-width:600px){
+  header{
+    display: none;
+  }
+}
+
+.header-nav a{
+  padding: 0;
+  margin-left: 0;
+  margin-right: 0;
+  float: right;
+  font-size: 13px;
+}
+
+.header-nav{
+  margin-right: 0;
+  transform: translateX(-100%);
+  transition: 1s;
+}
+
+.drawer-btn:checked ~ .header-nav{
+  transform: translateX(5%);
+}
+
+.drawer-btn{
+  position: absolute;
+  right: 40px;
+  top: 790px;
+  transform: scale(2);
+  opacity: 0;
+}
+    
 
 
 
